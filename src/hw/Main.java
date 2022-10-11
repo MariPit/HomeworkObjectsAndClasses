@@ -4,7 +4,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        Author Dostaevsky = new Author("Федор", "Доставский");
+        Author Dostaevsky = new Author("Федор", "Достаевский");
         Book Idiot = new Book("Идиот", Dostaevsky, 1868);
 
         Author Griboedov = new Author("Александр", "Грибоедов");
